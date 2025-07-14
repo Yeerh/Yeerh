@@ -1,4 +1,4 @@
-# 💫 About Me: Sou Desenvolvedor Full Stack , Progamador Junior
+# 💫 Oii me chamo Diego Sou desenvolvedor Junior
 🔭Desenvolvedor Front-end.<br>👯Cursando Análise e Desenvolvimento de Sistemas<br>🌱HTML | CSS | Java<br>
 
 
