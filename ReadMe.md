@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me: Sou Desenvolvedor Full Stack , Progamador Junior
 🔭Desenvolvedor Front-end.<br>👯Cursando Análise e Desenvolvimento de Sistemas<br>🌱HTML | CSS | Java<br>
 
 
