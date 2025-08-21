@@ -16,8 +16,7 @@
 ---
 
 ## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=Yeerh&theme=dracula&hide_border=true&include_all_commits=false&count_private=true)  ![](https://github-readme-streak-stats.herokuapp.com/?user=Yeerh&theme=dracula&hide_border=true)  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Yeerh&theme=dracula&hide_border=true&layout=compact)![Banner Animado](https://user-images.githubusercontent.com/74038190/216649421-9e9387cc-b2d3-4375-97e2-f4c43373d3ae.gif)
-
+![](https://github-readme-stats.vercel.app/api?username=Yeerh&theme=dracula&hide_border=true&include_all_commits=false&count_private=true)  ![](https://github-readme-streak-stats.herokuapp.com/?user=Yeerh&theme=dracula&hide_border=true)  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Yeerh&theme=dracula&hide_border=true&layout=compact)
 
 ---
 ![Banner Animado](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
