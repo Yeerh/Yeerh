@@ -1,7 +1,7 @@
 # 💫 Olá! Me chamo Diego  
-🔭 Desenvolvedor Front-end Junior  
-👨‍💻 Cursando Análise e Desenvolvimento de Sistemas  
-🌱 Conhecimentos: HTML | CSS | Java | C | JavaScript  
+🔭 Desenvolvedor Full stack 
+👨‍💻 Formado Análise e Desenvolvimento de Sistemas  
+🌱 Conhecimentos: HTML | CSS | Java | C | JavaScript | React  | Node   
 
 ---
 
