@@ -1,110 +1,109 @@
-<!-- ANIMAÇÃO DE TEXTO -->
+<!-- HEADER COM IDENTIDADE -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&width=600&lines=Desenvolvedor+Full+Stack;Criando+Soluções+Web+de+Alto+Impacto;UI%2FUX+%2B+Performance+%2B+Resultado" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=8A2BE2&size=30&center=true&vCenter=true&width=700&lines=Diego+Ewerton;Full+Stack+Developer;Criando+Sites+que+Geram+Resultados;Transformando+Ideias+em+Negócios+Digitais" />
 </p>
 
 ---
 
-# 👨‍💻 Diego Ewerton
+<h1 align="center"> Diego Ewerton</h1>
 
-🚀 Desenvolvedor Full Stack focado em criar soluções modernas, escaláveis e com impacto real em negócios.  
-💡 Transformo ideias em produtos digitais funcionais e orientados a resultado.  
+<p align="center">
+Desenvolvedor Full Stack focado em <strong>criar sistemas e sites que geram resultado real</strong>.
+</p>
 
----
-
-## 🧠 Sobre mim
-
-- 💻 Desenvolvimento completo (Frontend + Backend)  
-- ⚡ Foco em performance e experiência do usuário  
-- 🎯 Projetos reais com aplicação prática  
-- 📈 Mentalidade de produto e crescimento  
-- 🔄 Automação e otimização de processos  
+<p align="center">
+💻 Código + 🎯 Estratégia + 📈 Conversão
+</p>
 
 ---
 
-## 🌐 Conecte-se comigo
+## 🧠 Posicionamento
 
-<p align="left">
+Não sou apenas um desenvolvedor.
+
+Sou alguém que constrói **soluções digitais com foco em crescimento**.
+
+- ⚡ Sites que convertem  
+- 💡 Sistemas que resolvem problemas reais  
+- 📈 Projetos pensados como produto  
+
+---
+
+## 🌐 Conecte-se
+
+<p align="center">
   <a href="https://www.linkedin.com/in/diego-ewerton-2063272a0/">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Perfil-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Stack Tecnológica
 
-### 💻 Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react" />
-</p>
-
-### ⚙️ Backend
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,java,c" />
-</p>
-
-### 🗄️ Banco de Dados
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,mysql,java,c" />
 </p>
 
 ---
 
-## 🚀 Projetos em Destaque
+## 🚀 Projetos com impacto
 
-### 📄 Sistema de Geração de Portarias
-✔️ Formulário dinâmico  
-✔️ Preview em tempo real  
-✔️ Exportação para Word (.docx)  
-✔️ Controle de acesso  
+### 📄 Sistema de Portarias (Prefeitura)
+🔹 Geração automatizada de documentos  
+🔹 Preview em tempo real  
+🔹 Exportação Word (.docx)  
+🔹 Controle de acesso  
 
 ---
 
-### 🍔 Sistema Web para Hamburgueria
-✔️ Interface moderna e responsiva  
-✔️ Foco em conversão  
-✔️ Estrutura escalável  
+### 🍔 Site para Hamburgueria
+🔹 Interface moderna e responsiva  
+🔹 Estrutura pensada para conversão  
+🔹 Design estratégico (UI/UX)  
 
 ---
 
 ### 🏋️ Plataforma de Treinos Online
-✔️ Planos (Básico, Intermediário, Premium)  
-✔️ Estrutura de venda digital  
-✔️ Posicionamento de marca  
+🔹 Venda de planos (Básico, Intermediário, Premium)  
+🔹 Estrutura de produto digital  
+🔹 Posicionamento de marca pessoal  
 
 ---
 
-## 📊 Estatísticas
+## 📊 Performance
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Yeerh&show_icons=true&theme=dracula&hide_border=true" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Yeerh&theme=dracula&hide_border=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Yeerh&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=Yeerh&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yeerh&layout=compact&theme=dracula&hide_border=true"/>
+  <img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yeerh&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-## 🧠 Diferencial
+## 🔥 Diferencial
 
-🔥 Não entrego apenas código — entrego solução  
-🚀 Foco em resultado para negócios  
-🎯 Visão estratégica + execução técnica  
+✔️ Visão de negócio (não só código)  
+✔️ Experiência com projetos reais  
+✔️ Foco em resultado e conversão  
+✔️ UI/UX moderno e funcional  
 
 ---
 
 ## 🎯 Objetivo
 
-Crescer como desenvolvedor Full Stack, participar de projetos desafiadores e construir soluções que gerem impacto real.
+Construir projetos cada vez maiores, evoluir como dev e criar soluções digitais que realmente fazem diferença.
 
 ---
 
-## ⚡ Fun Fact
+## ⚡ Marca Pessoal
 
-💡 Sempre buscando evoluir e construir algo melhor que ontem.
+<p align="center">
+  <strong>“Seu site não é estética. É uma ferramenta de crescimento.”</strong>
+</p>
 
 ---
 
