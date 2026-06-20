@@ -23,7 +23,7 @@ Sou desenvolvedor e fundador da **DiegoCodes**, marca voltada à criação de si
 
 Meu trabalho não se limita a escrever código. Busco entender o problema, organizar a experiência do usuário e desenvolver uma solução que ajude o projeto a alcançar resultados reais.
 
-- 🎓 Cursando Análise e Desenvolvimento de Sistemas
+- 🎓 Formado Análise e Desenvolvimento de Sistemas
 - 💼 Experiência com projetos comerciais e soluções para o setor público
 - 📍 Recife, Pernambuco
 - 🚀 Desenvolvendo aplicações modernas, responsivas e escaláveis
